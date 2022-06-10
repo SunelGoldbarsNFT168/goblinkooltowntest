@@ -1,0 +1,7 @@
+<iframe
+src="https://gateway.ipfscdn.io/ipfs/QmfJu3spsSJot6givCK2VjwEgVHymc5RCXHqfG1W5WZyFX/nft-drop.html?contract=0x7EcFb246CBF873b25ca6bEE7036776f4F2c8A4Af&chainId=4"
+width="600px"
+height="600px"
+style="max-width:100%;"
+frameborder="0"
+></iframe>
